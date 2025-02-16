@@ -10,7 +10,7 @@ wheel
 yfinance
 requests
 datasets
-mlflow
+mlflow==2.2.2
 tqmd
 ensure
 flask
@@ -18,5 +18,6 @@ flask-cors
 streamlit
 fastapi
 pyYAML
+types-pyYAML
 python-box
 -e .
