@@ -1,0 +1,22 @@
+pandas
+numpy
+matplotlib
+nltk
+scikit-learn
+transformers
+torch
+setuptools
+wheel
+yfinance
+requests
+datasets
+mlflow
+tqmd
+ensure
+flask
+flask-cors
+streamlit
+fastapi
+pyYAML
+python-box
+-e .
